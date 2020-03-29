@@ -12,6 +12,8 @@ html{
 }
 .nav_colr a{color: white!important;}
 
+
+
 /*---------- header section banner_bar -------- */
 
 .banner_bar{
@@ -229,6 +231,10 @@ html{
 .detail_ud h1{
 	font-size: 1rem; 
 	text-align: center;
+}
+.detail_ud p{
+	font-size:9px; 
+	
 }
   }
 
